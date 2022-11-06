@@ -5,7 +5,7 @@ export const config = {
     // 公众号appSecret
     appSecret: "5fc35dcb365a8e58203fb7c9ddae4850",
     // 模板消息id
-    templateId: "J0_deb20vmh2MB-R6PzdqGcIbfNZlpDwGKgVXm5Pkvo",
+    templateId: "d5IkhZ31x5jt_9BmOg7m34JBhZuj2jKh6ZxwRxSnCkY",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["o6Kdj6FbIe3OrOZPTtgYb2F_KLpc","o6Kdj6BEshp_J_axXCOYytua6Jn4"],
      
